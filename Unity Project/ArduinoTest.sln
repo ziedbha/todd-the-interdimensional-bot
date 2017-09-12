@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArduinoTest", "Assembly-CSharp.csproj", "{1D4F5CBA-4C67-A807-3747-DAE77A41FA53}"
+EndProject
+Project("{DA78732A-6469-A8F1-3D4D-DE73284FCE1D}") = "ArduinoTest", "Assembly-UnityScript.unityproj", "{545CA760-BA00-99D9-8998-C2FFC1CEE6E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D4F5CBA-4C67-A807-3747-DAE77A41FA53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D4F5CBA-4C67-A807-3747-DAE77A41FA53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D4F5CBA-4C67-A807-3747-DAE77A41FA53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D4F5CBA-4C67-A807-3747-DAE77A41FA53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{545CA760-BA00-99D9-8998-C2FFC1CEE6E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{545CA760-BA00-99D9-8998-C2FFC1CEE6E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{545CA760-BA00-99D9-8998-C2FFC1CEE6E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{545CA760-BA00-99D9-8998-C2FFC1CEE6E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
